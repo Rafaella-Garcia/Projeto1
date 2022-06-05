@@ -1,2 +1,2 @@
 # Projeto1
-criação de um layout
+criação de um layout utilizando HTML e CSS
